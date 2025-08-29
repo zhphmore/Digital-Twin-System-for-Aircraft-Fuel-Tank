@@ -36,6 +36,10 @@ Files structure is as follows:
 └── readme.md                               # This file  
 ```
 
+## User Manual
+
+The detailed user manual is available in *./User_Interface/user_manual.pdf*.
+
 ## Program
 
 ### Structure of program files
@@ -53,3 +57,4 @@ The UI is displayed as follows.
 ## License
 
 This code is provided for educational and research purposes.
+
