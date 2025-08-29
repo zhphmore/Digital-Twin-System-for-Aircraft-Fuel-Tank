@@ -752,8 +752,7 @@ class window_flow(ui_flow.Ui_Dialog, QDialog):
     # ************************************************************
     @staticmethod
     def readme_title():
-        txt_readme = ('中国航空工业集团公司沈阳飞机设计研究所\n\n'
-                      '燃油分系统典型子系统数字孪生模型\n'
+        txt_readme = ('燃油分系统典型子系统数字孪生模型\n'
                       '本软件支持以下功能：\n\n'
                       '1、读取油箱和管路模型。\n'
                       '2、读取流体仿真的过程参数，作为数据输入。\n'
@@ -883,3 +882,4 @@ class window_flow(ui_flow.Ui_Dialog, QDialog):
 #     def runFlow(self):
 #         dialog_flow = window_flow()
 #         dialog_flow.show()
+
