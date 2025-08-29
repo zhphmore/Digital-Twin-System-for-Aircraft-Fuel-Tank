@@ -1,0 +1,8 @@
+# ---- runtime ----
+numpy
+pandas
+geomdl
+pyvista
+pyvistaqt
+PyQt5
+watchdog
