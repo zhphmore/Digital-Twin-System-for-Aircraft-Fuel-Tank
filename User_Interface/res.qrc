@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="images">
+    <file>image_title.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icon_logo.png</file>
+    <file>icon_stop.png</file>
+    <file>icon_last.png</file>
+    <file>icon_first.png</file>
+    <file>icon_run.png</file>
+    <file>icon_next.png</file>
+    <file>icon_previous.png</file>
+    <file>icon_save.png</file>
+    <file>icon_yz.png</file>
+    <file>icon_zx.png</file>
+    <file>icon_zy.png</file>
+    <file>icon_xy.png</file>
+    <file>icon_xz.png</file>
+    <file>icon_yx.png</file>
+    <file>icon_about.png</file>
+    <file>icon_02.png</file>
+    <file>icon_01.png</file>
+  </qresource>
+</RCC>
